@@ -504,8 +504,9 @@ footer {
         display: none;
     }
 
-    .reversed-2 {
+    .features .reversed-2 {
         margin-bottom: 2rem;
+        padding: 0;
     }
 
     .company img {
@@ -534,9 +535,5 @@ footer {
         padding-top: 2rem;
         padding-left: 2rem;
         padding-right: 2rem;
-    }
-    
-    .reversed-2 {
-        padding: 0;
     }
 }
