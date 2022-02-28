@@ -535,4 +535,8 @@ footer {
         padding-left: 2rem;
         padding-right: 2rem;
     }
+    
+    .reversed-2 {
+        padding: 0;
+    }
 }
